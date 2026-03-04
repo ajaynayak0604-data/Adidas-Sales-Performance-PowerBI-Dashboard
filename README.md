@@ -19,4 +19,16 @@ The dashboard helps identify key trends, top-performing products, and regional s
 - Sales trend analysis over time
 - Regional and product-level performance comparison
 ## Dashboard Preview
+### Overview
+![Overview](POWER BI ADIDAS SS.png)
+
+### AI Insights
+![AI Insights](ai insights.png)
+
+### Performance Analysis
+![Performance](performance analysis.png)
+
+### Product Analysis
+![Product](product analysis.png)
+
 
