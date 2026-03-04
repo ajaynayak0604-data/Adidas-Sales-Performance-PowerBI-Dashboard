@@ -20,15 +20,15 @@ The dashboard helps identify key trends, top-performing products, and regional s
 - Regional and product-level performance comparison
 ## Dashboard Preview
 ### Overview
-![Overview](POWER BI ADIDAS SS.png)
-
-### AI Insights
-![AI Insights](ai insights.png)
-
-### Performance Analysis
-![Performance](performance analysis.png)
+![Overview](overview.png)
 
 ### Product Analysis
-![Product](product analysis.png)
+![Product](product-analysis.png)
+
+### Performance Analysis
+![Performance](performance-analysis.png)
+
+### AI Insights
+![AI Insights](ai-insights.png)
 
 
