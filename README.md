@@ -20,7 +20,7 @@ The dashboard helps identify key trends, top-performing products, and regional s
 - Regional and product-level performance comparison
 ## Dashboard Preview
 ### Overview
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### Product Analysis
 ![Product](product-analysis.png)
